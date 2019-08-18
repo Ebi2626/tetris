@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a04c5eb.chunk.css",
-    "main.js": "/static/js/main.c1a54828.chunk.js",
-    "main.js.map": "/static/js/main.c1a54828.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.050c13df.js",
-    "runtime~main.js.map": "/static/js/runtime~main.050c13df.js.map",
-    "static/js/2.3543812d.chunk.js": "/static/js/2.3543812d.chunk.js",
-    "static/js/2.3543812d.chunk.js.map": "/static/js/2.3543812d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.21ef84e67d5e3c5ce3747ab4620eabc7.js": "/precache-manifest.21ef84e67d5e3c5ce3747ab4620eabc7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4a04c5eb.chunk.css.map": "/static/css/main.4a04c5eb.chunk.css.map",
-    "static/media/index.css": "/static/media/Pixel-LCD-7.e2897552.woff",
-    "static/media/bg.png": "/static/media/bg.2810fe6b.png"
+    "main.css": "./static/css/main.4a04c5eb.chunk.css",
+    "main.js": "./static/js/main.c1a54828.chunk.js",
+    "main.js.map": "./static/js/main.c1a54828.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.050c13df.js",
+    "runtime~main.js.map": "./static/js/runtime~main.050c13df.js.map",
+    "static/js/2.3543812d.chunk.js": "./static/js/2.3543812d.chunk.js",
+    "static/js/2.3543812d.chunk.js.map": "./static/js/2.3543812d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.21ef84e67d5e3c5ce3747ab4620eabc7.js": "./precache-manifest.21ef84e67d5e3c5ce3747ab4620eabc7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4a04c5eb.chunk.css.map": "./static/css/main.4a04c5eb.chunk.css.map",
+    "static/media/index.css": "./static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "./static/media/bg.2810fe6b.png"
   }
 }
